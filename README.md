@@ -1,4 +1,4 @@
-# Myproject
-fronet-end developer template
+# My-Project
+Fronet-End Developer Templates
 
 #2 Project Notes
